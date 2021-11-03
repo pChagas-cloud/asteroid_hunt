@@ -3,7 +3,7 @@
 <p align='right' font-size=15> Representação gráfica do buraco negro Sagittarius A* </p>
 <br>
 <h1></h1>
-<p>Ok, esse com certeza é o role mais aleatório que a gente se meteu esse ano, e por isso mesmo é hora de darmos o nosso melhor</p>
+<p>Bem, tenho certeza que ninguém do nosso grupo nunca chegou a estudar asteróides e como detecta-los, mas com certeza não queremos perder esta oportunidade de ampliar nossos horizontes! E por isso mesmo é hora de darmos o nosso melhor</p>
 <br>
 <p> Criei esse repositório para compartilhar informações úteis e imagens com asteroides para nosso treino </p>
 <br>
