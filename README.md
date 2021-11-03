@@ -1,4 +1,4 @@
-<h1 align='center'>Hora de caçar asteroides, Sagittarius A* !</h1>
+<h1 align='center'>Hora de caçar asteroides !</h1>
 <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FcyQu0_wo4qM%2Fmaxresdefault.jpg&f=1&nofb=1'>
 <p align='right' font-size=15> Representação gráfica do buraco negro Sagittarius A* </p>
 <br>
